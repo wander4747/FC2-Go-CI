@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: false
-          tags: wander4747/FC2-Go-CI:latest
+          tags: wander4747/fc2-go-ci:latest
